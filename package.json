@@ -1,0 +1,9 @@
+{
+    "name": "medmon-x",
+    "private": true,
+    "workspaces": [
+      "medmonk-admin",
+      "medmonk-web"
+    ]
+  }
+  
